@@ -1,6 +1,7 @@
 # Block Editor Search & Replace – Text, Links & Images
 
 **Contributors:** [krasenslavov](https://profiles.wordpress.org/krasenslavov), [developry](https://profiles.wordpress.org/developry)  
+**Modified By:** [Md. Siraj-Ud-Doulla](https://github.com/SirajCse)   
 **Donate link:** https://krasenslavov.com/hire-krasen/  
 **Tags:** block editor, blocks, classic editor, search, replace  
 **Requires at least:** 5.0  
