@@ -25,8 +25,8 @@ function besnr_default_search_replace() {
 	$besnr_admin->get_invalid_user_cap();
 
 	$current_post_id   = isset( $_REQUEST['current_post_id'] ) ? intval( sanitize_text_field( wp_unslash( $_REQUEST['current_post_id'] ) ) ) : 0;
-	$search_input      = isset( $_REQUEST['search_input'] ) ? trim( wp_unslash( $_REQUEST['search_input'] ) ) : ''; // phpcs:ignore WordPress.Security.ValidatedSanitizedInput.InputNotSanitized	
-	$replace_input     = isset( $_REQUEST['replace_with_input'] ) ? trim( wp_unslash( $_REQUEST['replace_with_input'] ) ) : ''; // phpcs:ignore WordPress.Security.ValidatedSanitizedInput.InputNotSanitized
+	$search_input      = isset( $_REQUEST['search_input'] ) ? wp_unslash( $_REQUEST['search_input'] ) : ''; // phpcs:ignore WordPress.Security.ValidatedSanitizedInput.InputNotSanitized
+	$replace_input     = isset( $_REQUEST['replace_with_input'] ) ? wp_unslash( $_REQUEST['replace_with_input'] ) : ''; // phpcs:ignore WordPress.Security.ValidatedSanitizedInput.InputNotSanitized
 	$search_method     = isset( $_REQUEST['search_method'] ) ? trim( sanitize_text_field( wp_unslash( $_REQUEST['search_method'] ) ) ) : '';
 	$is_highlighted    = isset( $_REQUEST['is_highlighted'] ) ? filter_var( sanitize_text_field( wp_unslash( $_REQUEST['is_highlighted'] ) ), FILTER_VALIDATE_BOOLEAN ) : false;
 	$is_case_sensitive = isset( $_REQUEST['is_case_sensitive'] ) ? filter_var( sanitize_text_field( wp_unslash( $_REQUEST['is_case_sensitive'] ) ), FILTER_VALIDATE_BOOLEAN ) : false;
