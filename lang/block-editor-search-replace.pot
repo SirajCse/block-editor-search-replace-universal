@@ -1,0 +1,451 @@
+# Block Editor Search & Replace - Easily search and replace text, images or links in the Block Editor, with backward compatibility for the Classic Editor.
+# Copyright (c) 2025 Developry
+# This file is distributed under the same license as the plugin, GPLv3 or later.
+# Krasen Slavov <contact@developry.com>, 2025.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.1\n"
+"Report-Msgid-Bugs-To: Block Editor Search & Replace <contact@developry.com>\n"
+"POT-Creation-Date: 2025-01-18 00:00+0000\n"
+"PO-Revision-Date: 2025-01-18 00:00+0000\n"
+"Last-Translator: Krasen Slavov <contact@developry.com>\n"
+"Language-Team: BESNR <contact@developry.com>\n"
+"Language: \n"
+"MIME-Version: 1.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 1.1.1.0\n"
+
+#: trunk/block-editor-search-replace.php:41
+#: trunk/.old/block-editor-search-replace.php:41
+#: trunk/.old/inc/admin/requirements/pro-plugin.php:50
+#: trunk/.old/inc/admin/settings/settings-main-page.php:24
+#: trunk/.old/inc/admin/settings/settings-menu.php:23
+#: trunk/.old/inc/admin/settings/settings-menu.php:34
+#: trunk/inc/admin/requirements/pro-plugin.php:50
+#: trunk/inc/admin/settings/settings-menu.php:20
+#: trunk/inc/admin/settings/settings-menu.php:31
+msgid "Block Editor Search & Replace"
+msgstr ""
+
+#: trunk/.old/inc/admin/requirements/action-links.php:23
+#: trunk/inc/admin/requirements/action-links.php:23
+msgid "Settings"
+msgstr ""
+
+#: trunk/.old/inc/admin/requirements/action-links.php:26
+#: trunk/.old/inc/admin/requirements/pro-plugin.php:69
+#: trunk/inc/admin/requirements/action-links.php:26
+#: trunk/inc/admin/requirements/pro-plugin.php:69
+msgid "Go Pro"
+msgstr ""
+
+#: trunk/.old/inc/admin/requirements/check-requirements.php:57
+#: trunk/inc/admin/requirements/check-requirements.php:47
+#, php-format
+msgid "%1$s requires a minimum of PHP %2$s and WordPress %3$s"
+msgstr ""
+
+#: trunk/.old/inc/admin/requirements/check-requirements.php:69
+#: trunk/inc/admin/requirements/check-requirements.php:59
+#, php-format
+msgid "You are currently running PHP %1$s and WordPress %2$s."
+msgstr ""
+
+#: trunk/.old/inc/admin/requirements/notice-rating.php:33
+#, php-format
+msgid ""
+"✨💪🔌 Could you please kindly help the plugin in your turn %1$s? (Thank you in "
+"advance)"
+msgstr ""
+
+#: trunk/.old/inc/admin/requirements/notice-rating.php:36
+#: trunk/inc/admin/requirements/notice-rating.php:37
+msgid "by giving it 5 stars rating"
+msgstr ""
+
+#: trunk/.old/inc/admin/requirements/notice-rating.php:42
+#: trunk/inc/admin/requirements/notice-rating.php:43
+msgid "Rate us @ WordPress.org"
+msgstr ""
+
+#: trunk/.old/inc/admin/requirements/notice-rating.php:46
+#: trunk/.old/inc/admin/requirements/pro-plugin.php:73
+#: trunk/inc/admin/requirements/notice-rating.php:47
+#: trunk/inc/admin/requirements/pro-plugin.php:73
+msgid "I already did"
+msgstr ""
+
+#: trunk/.old/inc/admin/requirements/notice-rating.php:49
+#: trunk/.old/inc/admin/requirements/pro-plugin.php:76
+#: trunk/inc/admin/requirements/notice-rating.php:50
+#: trunk/inc/admin/requirements/pro-plugin.php:76
+msgid "Don't show this notice again!"
+msgstr ""
+
+#: trunk/.old/inc/admin/requirements/pro-plugin.php:39
+#: trunk/inc/admin/requirements/pro-plugin.php:39
+msgid "Block Editor Search & Replace PRO 🚀"
+msgstr ""
+
+#: trunk/.old/inc/admin/requirements/pro-plugin.php:46
+#: trunk/inc/admin/requirements/pro-plugin.php:46
+#, php-format
+msgid ""
+"✨🎉📢 %1$s? Would you be interested in learning more about the benefits of "
+"upgrading to the %2$s?"
+msgstr ""
+
+#: trunk/.old/inc/admin/requirements/pro-plugin.php:49
+#: trunk/inc/admin/requirements/pro-plugin.php:49
+msgid "Found the free version helpful"
+msgstr ""
+
+#: trunk/.old/inc/admin/search-replace/search-replace-actions.php:36
+#: trunk/.old/inc/admin/search-replace/search-replace-actions.php:173
+#: trunk/.old/inc/admin/search-replace/search-replace-actions.php:244
+#: trunk/.old/inc/admin/search-replace/search-replace-actions.php:285
+#: trunk/inc/admin/search-replace/search-replace-actions/default-search-replace.php:37
+#: trunk/inc/admin/search-replace/search-replace-actions/highlight-search.php:34
+#: trunk/inc/admin/search-replace/search-replace-actions/remove-highlight-tags.php:32
+#: trunk/inc/admin/search-replace/search-replace-actions/update-editor-contents.php:29
+msgid "Post ID not found!"
+msgstr ""
+
+#: trunk/.old/inc/admin/search-replace/search-replace-actions.php:44
+msgid "Cannot run search replace with empty search phrase!"
+msgstr ""
+
+#: trunk/.old/inc/admin/search-replace/search-replace-actions.php:52
+#: trunk/.old/inc/admin/search-replace/search-replace-actions.php:189
+msgid "Minimum 3 characters for your search text!"
+msgstr ""
+
+#: trunk/.old/inc/admin/search-replace/search-replace-actions.php:65
+#: trunk/.old/inc/admin/search-replace/search-replace-actions.php:138
+#: trunk/.old/inc/admin/search-replace/search-replace-actions.php:220
+#: trunk/.old/inc/admin/search-replace/search-replace-actions.php:263
+#: trunk/inc/admin/search-replace/search-replace-actions/default-search-replace.php:107
+#: trunk/inc/admin/search-replace/search-replace-actions/highlight-search.php:94
+#: trunk/inc/admin/search-replace/search-replace-actions/remove-highlight-tags.php:95
+msgid "Unexpected error! Post content was not updated!"
+msgstr ""
+
+#: trunk/.old/inc/admin/search-replace/search-replace-actions.php:144
+msgid "No results found!"
+msgstr ""
+
+#: trunk/.old/inc/admin/search-replace/search-replace-actions.php:181
+msgid "Cannot run search replace with empty search or replace phrases!"
+msgstr ""
+
+#: trunk/.old/inc/admin/search-replace/search-replace-actions.php:197
+msgid "Minimum 3 characters for your replace with text!"
+msgstr ""
+
+#: trunk/.old/inc/admin/search-replace/search-replace-actions.php:257
+msgid "All custom tags were removed successfully!"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/compact-mode.php:38
+msgid "Compact mode will add a sub-menu to Tools."
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/compact-mode.php:66
+#: trunk/inc/admin/settings/compact-mode.php:66
+msgid "Compact mode option was updated successfully."
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/editors-supported.php:43
+msgid "Select supported editors for the search and replace."
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/editors-supported.php:70
+#: trunk/inc/admin/settings/editors-supported.php:74
+msgid "Supported editors option was updated successfully."
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/full-text-support.php:38
+msgid "Enable full-text support for the search and replace."
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/full-text-support.php:65
+msgid "Full-text support option was updated successfully."
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-actions.php:31
+msgid "All options were reset to their default values."
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-main-page.php:31
+msgid ""
+"Effortlessly search and replace text within the Block Editor's content area, "
+"with full support for the Classic Editor."
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-main-page.php:55
+#: trunk/inc/admin/settings/settings-main-page.php:45
+#: trunk/inc/admin/settings/settings-main-page.php:57
+msgid "Save"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-main-page.php:63
+#: trunk/.old/inc/admin/views/classic-editor-meta-box.php:88
+#: trunk/inc/admin/settings/settings-main-page.php:60
+msgid "Reset"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-main-page.php:78
+#, php-format
+msgid ""
+"If something is not clear, please open a ticket on the official plugin %1$s. "
+"All tickets should be addressed within a couple of working days."
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-main-page.php:81
+msgid "Support Forum"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-main-page.php:86
+msgid "Please rate us"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-main-page.php:92
+msgid "Having issues?"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-main-page.php:94
+msgid "Create a Support Ticket"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-main-page.php:98
+msgid "Developed by"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-main-page.php:100
+msgid "Krasen Slavov @ Developry"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-main-page.php:113
+#, php-format
+msgid ""
+"* For the price of a cup of coffee per month, you can help and support me on "
+"%1$s in continuing to develop and maintain all of my free WordPress plugins, "
+"every little bit helps and is greatly appreciated!"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-main-page.php:116
+msgid "Patreon"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-menu.php:24
+#: trunk/inc/library/class-classic-editor-search-replace.php:86
+msgid "Block Editor S/R"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-menu.php:35
+#: trunk/.old/inc/library/class-block-editor-search-replace.php:145
+#: trunk/inc/admin/settings/settings-menu.php:32
+msgid "Search & Replace"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-page.php:34
+#: trunk/inc/admin/settings/settings-page.php:41
+msgid "Editors Supported"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-page.php:45
+msgid "Types Supported"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-page.php:56
+msgid "Full-text Support"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/settings-page.php:67
+#: trunk/inc/admin/settings/settings-page.php:61
+msgid "Compact Mode"
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/types-supported.php:46
+msgid "Select supported types for the search and replace."
+msgstr ""
+
+#: trunk/.old/inc/admin/settings/types-supported.php:73
+msgid "Supported types option was updated successfully."
+msgstr ""
+
+#: trunk/.old/inc/admin/views/classic-editor-meta-box.php:4
+msgid ""
+"The search and replace plugin will help you find any text inside the Classic "
+"Editor content area and change with the replacement value."
+msgstr ""
+
+#: trunk/.old/inc/admin/views/classic-editor-meta-box.php:37
+msgid "Highlight text on search"
+msgstr ""
+
+#: trunk/.old/inc/admin/views/classic-editor-meta-box.php:50
+msgid "Case sensitive search & replace"
+msgstr ""
+
+#: trunk/.old/inc/admin/views/classic-editor-meta-box.php:61
+msgid "Enter you search phrase..."
+msgstr ""
+
+#: trunk/.old/inc/admin/views/classic-editor-meta-box.php:71
+msgid "Enter your replace with phrase..."
+msgstr ""
+
+#: trunk/.old/inc/admin/views/classic-editor-meta-box.php:81
+msgid "Replace"
+msgstr ""
+
+#: trunk/.old/inc/library/class-besnr-admin.php:82
+#: trunk/inc/library/class-besnr-admin.php:92
+#, php-format
+msgid "%1$s! Contact us @ %2$s."
+msgstr ""
+
+#: trunk/.old/inc/library/class-besnr-admin.php:84
+#: trunk/inc/library/class-besnr-admin.php:94
+msgid "Invalid security token"
+msgstr ""
+
+#: trunk/.old/inc/library/class-besnr-admin.php:115
+#: trunk/inc/library/class-besnr-admin.php:113
+#, php-format
+msgid ""
+"%1$s! Current user does not have the capabilities to access this function."
+msgstr ""
+
+#: trunk/.old/inc/library/class-besnr-admin.php:116
+#: trunk/inc/library/class-besnr-admin.php:114
+msgid "Access denied"
+msgstr ""
+
+#: trunk/inc/admin/requirements/notice-rating.php:34
+#, php-format
+msgid "✨💪🔌 Could you kindly support the plugin %1$s? Thank you in advance!"
+msgstr ""
+
+#: trunk/inc/admin/search-replace/search-replace-actions/default-search-replace.php:44
+#: trunk/inc/admin/search-replace/search-replace-actions/highlight-search.php:41
+msgid "No search phrase provided!"
+msgstr ""
+
+#: trunk/inc/admin/search-replace/search-replace-actions/default-search-replace.php:51
+msgid "No replace with phrase provided!"
+msgstr ""
+
+#: trunk/inc/admin/search-replace/search-replace-actions/default-search-replace.php:61
+#: trunk/inc/admin/search-replace/search-replace-actions/highlight-search.php:54
+#: trunk/inc/admin/search-replace/search-replace-actions/remove-highlight-tags.php:42
+#: trunk/inc/admin/search-replace/search-replace-actions/update-editor-contents.php:39
+msgid "No content found for this post ID."
+msgstr ""
+
+#: trunk/inc/admin/search-replace/search-replace-actions/default-search-replace.php:80
+msgid "The number of search terms does not match the number of replace terms."
+msgstr ""
+
+#: trunk/inc/admin/search-replace/search-replace-actions/default-search-replace.php:88
+#: trunk/inc/admin/search-replace/search-replace-actions/highlight-search.php:69
+msgid "Unsupported search method!"
+msgstr ""
+
+#: trunk/inc/admin/search-replace/search-replace-actions/default-search-replace.php:100
+#, php-format
+msgid "%s have been replaced successfully!"
+msgstr ""
+
+#: trunk/inc/admin/search-replace/search-replace-actions/highlight-search.php:87
+#, php-format
+msgid "%s have been found! "
+msgstr ""
+
+#: trunk/inc/admin/search-replace/search-replace-actions/remove-highlight-tags.php:90
+msgid "All custom tags have been removed successfully!"
+msgstr ""
+
+#: trunk/inc/admin/settings/compact-mode.php:38
+msgid "Move the plugin access link under Tools."
+msgstr ""
+
+#: trunk/inc/admin/settings/editors-supported.php:46
+msgid "Select supported editors by the plugin."
+msgstr ""
+
+#: trunk/inc/admin/settings/settings-actions.php:29
+msgid "All options have been reset to their default values."
+msgstr ""
+
+#: trunk/inc/admin/settings/settings-main-page.php:23
+msgid "Block Editor Search & Replace Pro"
+msgstr ""
+
+#: trunk/inc/admin/settings/settings-main-page.php:29
+msgid ""
+"Easily search and replace text, images or links in the Block Editor, with "
+"backward compatibility for the Classic Editor."
+msgstr ""
+
+#: trunk/inc/admin/settings/settings-main-page.php:41
+#, php-format
+msgid ""
+"%1$s: Click the \"%2$s\" button below to apply any changes you make to the "
+"options."
+msgstr ""
+
+#: trunk/inc/admin/settings/settings-main-page.php:44
+msgid "Important"
+msgstr ""
+
+#: trunk/inc/admin/settings/settings-main-page.php:74
+#, php-format
+msgid ""
+"• Hold %1$s, %2$s, or %3$s to select multiple supported and editor types or "
+"user access."
+msgstr ""
+
+#: trunk/inc/admin/settings/settings-main-page.php:77
+msgid "Ctrl"
+msgstr ""
+
+#: trunk/inc/admin/settings/settings-main-page.php:78
+msgid "Shift"
+msgstr ""
+
+#: trunk/inc/admin/settings/settings-main-page.php:79
+msgid "Cmd"
+msgstr ""
+
+#: trunk/inc/admin/settings/settings-menu.php:21
+msgid "Blocks Editor S/R"
+msgstr ""
+
+#: trunk/inc/admin/settings/settings-page.php:31
+msgid "Post Types Supported"
+msgstr ""
+
+#: trunk/inc/admin/settings/settings-page.php:51
+msgid "User Access"
+msgstr ""
+
+#: trunk/inc/admin/settings/types-supported.php:48
+msgid "Select the post types supported by the plugin."
+msgstr ""
+
+#: trunk/inc/admin/settings/types-supported.php:76
+msgid "Supported post types option was updated successfully."
+msgstr ""
+
+#: trunk/inc/admin/settings/user-access.php:43
+msgid "Select roles allowed to access plugin features."
+msgstr ""
+
+#: trunk/inc/admin/settings/user-access.php:71
+msgid "User access option was updated successfully."
+msgstr ""
