@@ -1,17 +1,17 @@
 <?php
 /**
- * Plugin Name: Block Editor Search & Replace
- * Plugin URI: https://searchreplaceblocks.com/
+ * Plugin Name: Block Editor Search & Replace Universal
+ * Plugin URI: https://bitdreamit.com/
  * Description: Easily search and replace text, images or links in the Block Editor, with backward compatibility for the Classic Editor.
  * Version: 1.2.6
- * Author: Krasen Slavov
+ * Author: Siraj-Ud-Doulla
  * Author URI: https://developry.com/
  * License: GPLv3 or later
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain: block-editor-search-replace
  * Domain Path: /lang
  *
- * Copyright (c) 2018 - 2025 Developry Ltd. (email: contact@developry.com)
+ * Copyright (c) 2018 - 2025 Developry Ltd. (email: info@bitdreamit.com)
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License, version 2, as
@@ -37,11 +37,11 @@ define( __NAMESPACE__ . '\BESNR_MIN_PHP_VERSION', '7.2' );
 define( __NAMESPACE__ . '\BESNR_MIN_WP_VERSION', '5.0' );
 
 define( __NAMESPACE__ . '\BESNR_PLUGIN_UUID', 'besnr' );
-define( __NAMESPACE__ . '\BESNR_PLUGIN_TEXTDOMAIN', 'block-editor-search-replace' );
-define( __NAMESPACE__ . '\BESNR_PLUGIN_NAME', esc_html__( 'Block Editor Search & Replace', 'block-editor-search-replace' ) );
+define( __NAMESPACE__ . '\BESNR_PLUGIN_TEXTDOMAIN', 'block-editor-search-replace-universal' );
+define( __NAMESPACE__ . '\BESNR_PLUGIN_NAME', esc_html__( 'Block Editor Search & Replace Universal Universal', 'block-editor-search-replace-universal' ) );
 define( __NAMESPACE__ . '\BESNR_PLUGIN_VERSION', '1.2.6' );
-define( __NAMESPACE__ . '\BESNR_PLUGIN_DOMAIN', 'searchreplaceblocks.com' );
-define( __NAMESPACE__ . '\BESNR_PLUGIN_DOCS', 'https://searchreplaceblocks.com/help' );
+define( __NAMESPACE__ . '\BESNR_PLUGIN_DOMAIN', 'bitdreamit.com' );
+define( __NAMESPACE__ . '\BESNR_PLUGIN_DOCS', 'https://bitdreamit.com/help' );
 
 define( __NAMESPACE__ . '\BESNR_PLUGIN_WPORG_SUPPORT', 'https://wordpress.org/support/plugin/block-editor-search-replace/#new-topic' );
 define( __NAMESPACE__ . '\BESNR_PLUGIN_WPORG_RATE', 'https://wordpress.org/support/plugin/block-editor-search-replace/reviews/#new-post' );

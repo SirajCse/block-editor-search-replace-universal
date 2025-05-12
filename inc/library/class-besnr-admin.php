@@ -88,11 +88,11 @@ if ( ! class_exists( 'BESNR_Admin' ) ) {
 		 */
 		public function get_invalid_nonce_token() {
 			/* translators: %1$s is replaced with "Invalid security token" */
-			/* translators: %2$s is replaced with "contact@domain.com" */
+			/* translators: %2$s is replaced with "info@domain.com" */
 			$message    = esc_html__( '%1$s! Contact us @ %2$s.', 'block-editor-search-replace' );
 			$values_arr = array(
 				'<strong>' . __( 'Invalid security token', 'block-editor-search-replace' ) . '</strong>',
-				'<a href="mailto:contact@' . BESNR_PLUGIN_DOMAIN . '">contact@' . BESNR_PLUGIN_DOMAIN . '</a>',
+				'<a href="mailto:info@' . BESNR_PLUGIN_DOMAIN . '">info@' . BESNR_PLUGIN_DOMAIN . '</a>',
 			);
 
 			if ( ! $this->check_nonce_token() ) {

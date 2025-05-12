@@ -1,8 +1,8 @@
-# Block Editor Search & Replace – Text, Links & Images
+# Block Editor Search & Replace Universal – Text, Links & Images
 
 **Contributors:** [krasenslavov](https://profiles.wordpress.org/krasenslavov), [developry](https://profiles.wordpress.org/developry)  
 **Modified By:** [Md. Siraj-Ud-Doulla](https://github.com/SirajCse)   
-**Donate link:** https://krasenslavov.com/hire-krasen/  
+**Donate link:** https://bitdreamit.com/hire-krasen/  
 **Tags:** block editor, blocks, classic editor, search, replace  
 **Requires at least:** 5.0  
 **Tested up to:** 6.8  
@@ -17,7 +17,7 @@ Easily search and replace text, images, or links in the Block Editor, with backw
 
 ## 🎯 Description
 
-Elevate your editing experience with the **Block Editor Search & Replace** plugin!
+Elevate your editing experience with the **Block Editor Search & Replace Universal** plugin!
 
 Designed to seamlessly integrate into WordPress, this plugin enables quick, intuitive search and replace functionality for text, images, or links directly in the Block Editor – with full support for the Classic Editor too.
 
@@ -69,11 +69,11 @@ Settings include:
 ## 📘 Documentation
 
 Step-by-step usage, videos, and feature guides:  
-👉 [Visit Documentation](https://searchreplaceblocks.com/help)
+👉 [Visit Documentation](https://bitdreamit.com/help)
 
 ---
 
-## ⭐ Block Editor Search & Replace Pro
+## ⭐ Block Editor Search & Replace Universal Pro
 
 Upgrade to **Pro** for advanced capabilities:
 
@@ -84,7 +84,7 @@ Upgrade to **Pro** for advanced capabilities:
 - Replace inside multilingual fields
 - Priority email support
 
-🛒 [Get Pro Version](https://searchreplaceblocks.com/)
+🛒 [Get Pro Version](https://bitdreamit.com/)
 
 ---
 
@@ -118,7 +118,7 @@ Use the [contact form](https://bit.ly/3PDk36N) for questions or help.
 
 ### From WP Dashboard:
 1. Go to `Plugins > Add New`
-2. Search for **Block Editor Search & Replace**
+2. Search for **Block Editor Search & Replace Universal**
 3. Install and activate
 
 ### Manual:
@@ -143,7 +143,7 @@ Use the [contact form](https://bit.ly/3PDk36N) for questions or help.
 - New: Image and link search modes
 - Code updates for Block Editor compatibility
 
-[Full changelog available on the website →](https://searchreplaceblocks.com/)
+[Full changelog available on the website →](https://bitdreamit.com/)
 
 ---
 
@@ -155,4 +155,4 @@ Use the [contact form](https://bit.ly/3PDk36N) for questions or help.
 
 ---
 
-© 2025 Block Editor Search & Replace — Unicode-compatible for multilingual content.
+© 2025 Block Editor Search & Replace Universal — Unicode-compatible for multilingual content.

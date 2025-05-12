@@ -1,7 +1,7 @@
-### Block Editor Search & Replace - Text, Links & Images
+### Block Editor Search & Replace Universal Universal - Text, Links & Images
 
 Contributors: krasenslavov, developry
-Donate Link: https://krasenslavov.com/hire-krasen/
+Donate Link: https://bitdreamit.com/hire-krasen/
 Tags: block editor, blocks, classic editor, search, replace
 Requires at least: 5.0
 Tested up to: 6.8
@@ -18,15 +18,15 @@ Easily search and replace text, images or links in the Block Editor, with backwa
 
 https://www.youtube.com/embed/zWxPv8pJH4U
 
-Elevate your editing experience with our [**Block Editor Search & Replace**](https://bit.ly/3PDk36N) plugin!
+Elevate your editing experience with our [**Block Editor Search & Replace Universal Universal**](https://bit.ly/3PDk36N) plugin!
 
 Designed to seamlessly integrate into the WordPress environment, this plugin allows you to swiftly locate and replace any, text, images or links within the Block Editor.
 
-[**Block Editor Search & Replace**](https://bit.ly/3PDk36N) is engineered to cater to both modern and traditional workflows, offering full compatibility with the Classic Editor.
+[**Block Editor Search & Replace Universal Universal**](https://bit.ly/3PDk36N) is engineered to cater to both modern and traditional workflows, offering full compatibility with the Classic Editor.
 
 ## USAGE
 
-After installing and activating [**Block Editor Search & Replace**](https://bit.ly/3PDk36N), a new meta box labeled Search & Replace will be accessible in your page or post editing screen. Here's how it works:
+After installing and activating [**Block Editor Search & Replace Universal Universal**](https://bit.ly/3PDk36N), a new meta box labeled Search & Replace will be accessible in your page or post editing screen. Here's how it works:
 
 1. Select your search and replace method.
 2. Enter your search phrase to instantly highlight matching keywords within the content.
@@ -36,7 +36,7 @@ After installing and activating [**Block Editor Search & Replace**](https://bit.
 
 ## FEATURES & LIMITATIONS
 
-[**Block Editor Search & Replace**](https://bit.ly/3PDk36N) enhance your productivity with these streamlined features:
+[**Block Editor Search & Replace Universal Universal**](https://bit.ly/3PDk36N) enhance your productivity with these streamlined features:
 
 1. **Search & Replace:** A familiar, intuitive search and replace functionality.
 2. **Highlighter:** Visual cues highlight all search hits, making editing more efficient.
@@ -47,7 +47,7 @@ After installing and activating [**Block Editor Search & Replace**](https://bit.
 
 **Convenient User Settings**
 
-While the free [**Block Editor Search & Replace**](https://bit.ly/3PDk36N) doesn't have a separate settings page, all configurations are conveniently located under `Block Editor S/R` or `Tools > Block Editor S/R` for compact mode. This includes:
+While the free [**Block Editor Search & Replace Universal Universal**](https://bit.ly/3PDk36N) doesn't have a separate settings page, all configurations are conveniently located under `Block Editor S/R` or `Tools > Block Editor S/R` for compact mode. This includes:
 
 - Toggle support between Block (Gutenberg) and Classic editors.
 - Select and limit the roles allowed to access plugin features.
@@ -60,11 +60,11 @@ While the free [**Block Editor Search & Replace**](https://bit.ly/3PDk36N) doesn
 
 ## DETAILED DOCUMENTATION
 
-Find step-by-step setup guides, usage instructions, demos, videos, and insights on the [**Block Editor Search & Replace Pro**](https://searchreplaceblocks.com/help) page.
+Find step-by-step setup guides, usage instructions, demos, videos, and insights on the [**Block Editor Search & Replace Universal Universal Pro**](https://bitdreamit.com/help) page.
 
-## BLOCK EDITOR SEARCH & REPLACE PRO
+## Block Editor Search & Replace Universal Universal PRO
 
-Upgrade to the Pro version of **Block Editor Search & Replace** and access these powerful features:
+Upgrade to the Pro version of **Block Editor Search & Replace Universal** and access these powerful features:
 
 - **Search & Replace for CPTs:** Extend functionality to custom post types.
 - **Dry-run with Preview:** Safely preview changes before applying them.
@@ -76,7 +76,7 @@ Upgrade to the Pro version of **Block Editor Search & Replace** and access these
 - **Priority Email Support:** Get fast, expert help when you need it.
 - **First-Release Updates:** Enjoy early access to the latest improvements and features.
 
-Upgrade now to maximize efficiency and enhance your editing capabilities. Learn more at [**Block Editor Search & Replace Pro**](https://searchreplaceblocks.com/).
+Upgrade now to maximize efficiency and enhance your editing capabilities. Learn more at [**Block Editor Search & Replace Universal Pro**](https://bitdreamit.com/).
 
 ## FREQUENTLY ASKED QUESTIONS
 
@@ -88,11 +88,11 @@ Feature requests are added to our wish list and considered for future updates.
 
 ### Is This Plugin Compatible with the Classic Editor?
 
-**Absolutely!** [**Block Editor Search & Replace**](https://bit.ly/3PDk36N) ensures support and backward compatibility with the Classic Editor.
+**Absolutely!** [**Block Editor Search & Replace Universal**](https://bit.ly/3PDk36N) ensures support and backward compatibility with the Classic Editor.
 
 ### Can This Plugin Be Used with Custom Post Types (CPT) or WooCommerce?
 
-**Certainly!** This feature is limited to only the [**Block Editor Search & Replace Pro**](https://bit.ly/3PDk36N) version of the plugin.
+**Certainly!** This feature is limited to only the [**Block Editor Search & Replace Universal Pro**](https://bit.ly/3PDk36N) version of the plugin.
 
 ### Are Revisions Saved by This Plugin?
 
@@ -100,7 +100,7 @@ Feature requests are added to our wish list and considered for future updates.
 
 ### What If I Need Additional Support?
 
-**Absolutely!** For any issues or queries, feel free to reach out through the contact form available on the [**Block Editor Search & Replace**](https://bit.ly/3PDk36N) website. We're here to help!
+**Absolutely!** For any issues or queries, feel free to reach out through the contact form available on the [**Block Editor Search & Replace Universal**](https://bit.ly/3PDk36N) website. We're here to help!
 
 ## SCREENSHOTS
 
@@ -119,7 +119,7 @@ The plugin installation is easy and straightforward. Let us know if you run into
 = Installation from WordPress =
 
 1. Go to **Plugins > Add New**.
-2. Search for **Block Editor Search & Replace**.
+2. Search for **Block Editor Search & Replace Universal**.
 3. Install and activate the plugin.
 4. Click **Settings** or go to **Block Edior S/R** in the menu.
 
@@ -127,7 +127,7 @@ The plugin installation is easy and straightforward. Let us know if you run into
 
 1. Upload the `block-editor-search-replace` folder to `/wp-content/plugins/`.
 2. Go to **Plugins**.
-3. Activate the **Block Editor Search & Replace** plugin.
+3. Activate the **Block Editor Search & Replace Universal** plugin.
 4. Click **Settings** or navigate to **Block Edior S/R** in the menu.
 
 = After Activation =
@@ -176,8 +176,8 @@ The plugin installation is easy and straightforward. Let us know if you run into
 - Update - Language file (.pot) header text
 - Update - Change license files to use GPLv3
 
-**Check out the complete changelog on our [**Block Editor Search & Replace**](https://bit.ly/3PDk36N) website.**
+**Check out the complete changelog on our [**Block Editor Search & Replace Universal**](https://bit.ly/3PDk36N) website.**
 
 ## UPGRADE NOTICE
 
-Upgrade to [**Block Editor Search & Replace Pro**](https://bit.ly/3PDk36N) for advanced features, unlimited recovery, and priority support!
+Upgrade to [**Block Editor Search & Replace Universal Pro**](https://bit.ly/3PDk36N) for advanced features, unlimited recovery, and priority support!

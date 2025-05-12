@@ -24,10 +24,6 @@ function besnr_add_action_links( $links, $file_path ) {
 			. esc_html__( 'Settings', 'block-editor-search-replace' )
 			. '</a>';
 
-		$links['besnr-upgrade'] = '<a href="https://bit.ly/4g120SB" target="_blank">'
-			. esc_html__( 'Go Pro', 'block-editor-search-replace' )
-			. '</a>';
-
 		return array_reverse( $links );
 	}
 

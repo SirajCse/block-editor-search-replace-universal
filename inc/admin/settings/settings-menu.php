@@ -17,7 +17,7 @@ function besnr_add_settings_menu() {
 
 	if ( '' === $besnr->compact_mode ) {
 		add_menu_page(
-			esc_html__( 'Block Editor Search & Replace', 'block-editor-search-replace' ),
+			esc_html__( 'Block Editor Search & Replace Universal', 'block-editor-search-replace' ),
 			esc_html__( 'Blocks Editor S/R', 'block-editor-search-replace' ),
 			'manage_options',
 			BESNR_SETTINGS_SLUG,
@@ -28,7 +28,7 @@ function besnr_add_settings_menu() {
 	} else {
 		add_submenu_page(
 			'tools.php',
-			esc_html__( 'Block Editor Search & Replace', 'block-editor-search-replace' ),
+			esc_html__( 'Block Editor Search & Replace Universal', 'block-editor-search-replace' ),
 			esc_html__( 'Search & Replace', 'block-editor-search-replace' ),
 			'manage_options',
 			BESNR_SETTINGS_SLUG,

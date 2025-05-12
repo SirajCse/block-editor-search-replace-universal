@@ -15,7 +15,4 @@ namespace DEVRY\BESNR;
 require_once BESNR_PLUGIN_DIR_PATH . 'inc/admin/requirements/check-requirements.php';
 require_once BESNR_PLUGIN_DIR_PATH . 'inc/admin/requirements/enqueue-assets.php';
 require_once BESNR_PLUGIN_DIR_PATH . 'inc/admin/requirements/action-links.php';
-require_once BESNR_PLUGIN_DIR_PATH . 'inc/admin/requirements/notice-rating.php';
-require_once BESNR_PLUGIN_DIR_PATH . 'inc/admin/requirements/notice-dismiss.php';
 require_once BESNR_PLUGIN_DIR_PATH . 'inc/admin/requirements/toggle-plugin.php';
-require_once BESNR_PLUGIN_DIR_PATH . 'inc/admin/requirements/pro-plugin.php';

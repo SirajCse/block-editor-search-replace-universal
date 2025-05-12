@@ -1,16 +1,16 @@
-# Block Editor Search & Replace - Easily search and replace text, images or links in the Block Editor, with backward compatibility for the Classic Editor.
+# Block Editor Search & Replace Universal - Easily search and replace text, images or links in the Block Editor, with backward compatibility for the Classic Editor.
 # Copyright (c) 2025 Developry
 # This file is distributed under the same license as the plugin, GPLv3 or later.
-# Krasen Slavov <contact@developry.com>, 2025.
+# Siraj-Ud-Doulla <info@bitdreamit.com>, 2025.
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.1\n"
-"Report-Msgid-Bugs-To: Block Editor Search & Replace <contact@developry.com>\n"
+"Report-Msgid-Bugs-To: Block Editor Search & Replace Universal <info@bitdreamit.com>\n"
 "POT-Creation-Date: 2025-01-18 00:00+0000\n"
 "PO-Revision-Date: 2025-01-18 00:00+0000\n"
-"Last-Translator: Krasen Slavov <contact@developry.com>\n"
-"Language-Team: BESNR <contact@developry.com>\n"
+"Last-Translator: Siraj-Ud-Doulla <info@bitdreamit.com>\n"
+"Language-Team: BESNR <info@bitdreamit.com>\n"
 "Language: \n"
 "MIME-Version: 1.1\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +27,7 @@ msgstr ""
 #: trunk/inc/admin/requirements/pro-plugin.php:50
 #: trunk/inc/admin/settings/settings-menu.php:20
 #: trunk/inc/admin/settings/settings-menu.php:31
-msgid "Block Editor Search & Replace"
+msgid "Block Editor Search & Replace Universal"
 msgstr ""
 
 #: trunk/.old/inc/admin/requirements/action-links.php:23
@@ -87,7 +87,7 @@ msgstr ""
 
 #: trunk/.old/inc/admin/requirements/pro-plugin.php:39
 #: trunk/inc/admin/requirements/pro-plugin.php:39
-msgid "Block Editor Search & Replace PRO 🚀"
+msgid "Block Editor Search & Replace Universal PRO 🚀"
 msgstr ""
 
 #: trunk/.old/inc/admin/requirements/pro-plugin.php:46
@@ -225,7 +225,7 @@ msgid "Developed by"
 msgstr ""
 
 #: trunk/.old/inc/admin/settings/settings-main-page.php:100
-msgid "Krasen Slavov @ Developry"
+msgid "Siraj-Ud-Doulla @ Developry"
 msgstr ""
 
 #: trunk/.old/inc/admin/settings/settings-main-page.php:113
@@ -383,7 +383,7 @@ msgid "All options have been reset to their default values."
 msgstr ""
 
 #: trunk/inc/admin/settings/settings-main-page.php:23
-msgid "Block Editor Search & Replace Pro"
+msgid "Block Editor Search & Replace Universal Pro"
 msgstr ""
 
 #: trunk/inc/admin/settings/settings-main-page.php:29

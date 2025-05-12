@@ -17,104 +17,8 @@ $besnr_admin = new BESNR_Admin();
 ?>
 <div class="besnr-admin">
 	<div class="besnr-container">
-		<div class="besnr-pro">
-			<h4>
-				<?php echo esc_html__( 'Get the PRO version today!', 'block-editor-search-replace' ); ?>
-			</h4>
-			<p>
-				<?php echo esc_html__( 'The PRO version offers more features, improved performance, and a faster recovery process.', 'block-editor-search-replace' ); ?>
-			</p>
-			<table>
-				<tr>
-					<th><?php echo esc_html__( 'Feature', 'block-editor-search-replace' ); ?></th>
-					<th><?php echo esc_html__( 'Free', 'block-editor-search-replace' ); ?></th>
-					<th><?php echo esc_html__( 'PRO', 'block-editor-search-replace' ); ?></th>
-				</tr>
-				<tr>
-					<td><?php echo esc_html__( 'Supported types', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'posts & pages', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'posts, pages and CPTs', 'block-editor-search-replace' ); ?></td>
-				</tr>
-				<tr>
-					<td><?php echo esc_html__( 'Dry-run', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'no', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'yes', 'block-editor-search-replace' ); ?></td>
-				</tr>
-				<tr>
-					<td><?php echo esc_html__( 'Highlight search input', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'yes', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'yes', 'block-editor-search-replace' ); ?></td>
-				</tr>
-				<tr>
-					<td><?php echo esc_html__( 'Case sensitive search & replace', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'yes', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'yes', 'block-editor-search-replace' ); ?></td>
-				</tr>
-				<tr>
-					<td><?php echo esc_html__( 'Multiple terms, Images and Links', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'yes', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'yes', 'block-editor-search-replace' ); ?></td>
-				</tr>
-				<tr>
-					<td><?php echo esc_html__( 'Shortcodes, HTML, and RegEx', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'no', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'yes', 'block-editor-search-replace' ); ?></td>
-				</tr>
-				<tr>
-					<td><?php echo esc_html__( 'Partial Image & Link URL replacements', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'no', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'yes', 'block-editor-search-replace' ); ?></td>
-				</tr>
-				<tr>
-					<td><?php echo esc_html__( 'Disable text characters limit and sanitization.', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'no', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'yes', 'block-editor-search-replace' ); ?></td>
-				</tr>
-				<tr>
-					<td><?php echo esc_html__( 'Multilingual support', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'no', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'yes', 'block-editor-search-replace' ); ?></td>
-				</tr>
-				<tr>
-					<td><?php echo esc_html__( 'Dedicated backup and restore functionality', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'no', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'yes', 'block-editor-search-replace' ); ?></td>
-				</tr>
-				<tr>
-					<td><?php echo esc_html__( 'Restrict access by user type', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'yes', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'yes', 'block-editor-search-replace' ); ?></td>
-				</tr>
-				<tr>
-					<td><?php echo esc_html__( 'Priority email support', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'no', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'yes', 'block-editor-search-replace' ); ?></td>
-				</tr>
-				<tr>
-					<td><?php echo esc_html__( 'Regular plugin updates', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'delayed', 'block-editor-search-replace' ); ?></td>
-					<td><?php echo esc_html__( 'first release', 'block-editor-search-replace' ); ?></td>
-				</tr>
-			</table>
-			<p class="button-group">
-				<a
-					class="button button-primary button-pro"
-					href="https://bit.ly/3Q1p1dP"
-					target="_blank"
-				>
-					<?php echo esc_html__( 'GET PRO VERSION', 'block-editor-search-replace' ); ?>
-				</a>
-				<a
-					class="button button-primary button-watch-video"
-					href="https://www.youtube.com/watch?v=zWxPv8pJH4U"
-					target="_blank"
-				>
-					<?php echo esc_html__( 'Watch Video', 'block-editor-search-replace' ); ?>
-				</a>
-			</p>
-		</div>
 		<h2>
-			<?php echo esc_html__( 'Block Editor Search & Replace Pro', 'block-editor-search-replace' ); ?>
+			<?php echo esc_html__( 'Block Editor Search & Replace Universal Pro', 'block-editor-search-replace' ); ?>
 		</h2>
 		<p>
 			<?php
@@ -186,8 +90,8 @@ $besnr_admin = new BESNR_Admin();
 			</p>
 			<p>
 				<strong><?php echo esc_html__( 'Developed by', 'block-editor-search-replace' ); ?></strong>
-				<a href="https://krasenslavov.com/" target="_blank">
-					<?php echo esc_html__( 'Krasen Slavov @ Developry', 'block-editor-search-replace' ); ?>
+				<a href="https://bitdreamit.com/" target="_blank">
+					<?php echo esc_html__( 'Siraj-Ud-Doulla @ Developry', 'block-editor-search-replace' ); ?>
 				</a>
 			</p>
 		</div>
